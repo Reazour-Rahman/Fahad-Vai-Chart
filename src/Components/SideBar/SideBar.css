@@ -1,0 +1,8 @@
+.menu-item{
+    margin: 10px 0px;
+    text-align: center;
+    padding: 10px;
+}
+.menu-item:hover{
+    background-color: red;
+}
